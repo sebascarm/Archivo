@@ -25,4 +25,7 @@
       <Filter>Clase</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
+  </ItemGroup>
 </Project>
